@@ -1,0 +1,15 @@
+[package]
+name = "ingrid"
+description = "Dynamic two-dimensional arrays with algorithms"
+version = "0.1.0"
+
+authors = ["Jonathan De Wachter <dewachter.jonathan@gmail.com>"]
+license = "MIT"
+keywords = ["ingrid", "grid", "array", "vector", "2d", "two-dimensional", "dynamic", "algorithm", "row", "column", "cell"]
+categories = ["algorithms", "data-structures"]
+
+homepage = "https://www.intjelic.me/project/ingrid"
+repository = "https://github.com/intjelic/ingrid"
+readme = "README.md"
+
+edition = "2018"

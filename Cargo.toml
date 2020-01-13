@@ -5,7 +5,7 @@ version = "0.1.0"
 
 authors = ["Jonathan De Wachter <dewachter.jonathan@gmail.com>"]
 license = "MIT"
-keywords = ["ingrid", "grid", "array", "vector", "2d", "two-dimensional", "dynamic", "algorithm", "row", "column", "cell"]
+keywords = ["ingrid", "grid", "dynamic", "algorithm", "container"]
 categories = ["algorithms", "data-structures"]
 
 homepage = "https://www.intjelic.me/project/ingrid"
